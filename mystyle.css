@@ -104,3 +104,6 @@
 .dropdown:hover .dropbtn {
   background-color: black;
 }
+<form>
+  <input type="text" name="search" placeholder="Search..">
+</form>
